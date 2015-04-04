@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- as configurações do jogo estão na node jogo-->
+<Jogo queue="P1">
+	<Games/>
+	<Queue><P1/></Queue>
+</Jogo>
