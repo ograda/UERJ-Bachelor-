@@ -1,0 +1,4 @@
+/*
+Trab2 - Matriz de transformação projetiva
+Faça um programa que leia um conjunto de quatro pares de pontos e obtenha a matriz de transformação projetiva correspondente.
+Cada linha da entrada contém as coordenadas no referencial da imagem original seguida das coordenadas no referencial da imagem distorcida por uma transformação projetiva. São quatro pares de pontos, portanto quatro linhas com as coordenadas dos pontos. Estes dados são obtidos pelo teclado. Em função destes pontos, usando o método dos mínimos quadrados (MMQ), obtenha a transformação projetiva que realizou a distorção da imagem e que, portanto, permite obter as coordenadas no referencial da imagem distorcida em função das coordenadas na imagem original.  No final do processo, a matriz de transformação deve ser apresentada na tela do computador usando o método show() da classe Matrix. */

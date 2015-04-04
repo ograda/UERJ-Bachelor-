@@ -1,0 +1,2 @@
+/* Trab 1 - Transformações geométricas mudança de escala.
+Escreva um programa na linguagem C++ que faça a mudança de escala de uma imagem de entrada usando o algoritmo de interpolação vizinho mais próximo. Seu programa deve ler pelo teclado dois parâmetros: o nome do arquivo PGM com a imagem de entrada e o fator de escala. */

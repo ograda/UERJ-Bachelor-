@@ -1,0 +1,11 @@
+/*
+Trab3 - Inversa da transformação projetiva
+Faça um programa que reconstitua a imagem original distorcida por uma transformação projetiva.
+ 
+Dados de entrada obtidos pelo teclado:
+nome do arquivo da imagem de distorcida
+conjunto de quatro pares de pontos - um par de pontos por linha (tal qual no Trab2). Cada linha contém as coordenadas no referencial da imagem original seguidas das coordenadas no referencial da imagem distorcida pela transformação projetiva. São quatro pares de pontos, portanto quatro linhas com as coordenadas dos pontos.
+Resultados a serem apresentados na tela:
+matriz de transformação projetiva que transforme coordenadas do referencial do suporte geométrico da imagem original para o referencial do suporte geométrico da imagem distorcida
+imagem de entrada reconstituída com a perspectiva original (deve ser usado o método de interpolação bilinear).
+OBS.: A matriz de transformação deve ser apresentada na tela do computador usando o método show() da classe Matrix e a reconstituição da imagem de entrada também, só que usando o método show da classe GrayImage. */
